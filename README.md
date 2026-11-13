@@ -49,7 +49,7 @@ Bu projeyi yerelinizde (local) çalıştırmak için aşağıdaki adımları izl
 * **Ad Soyad:** Ahmet Nihat Sami Badem - **Öğrenci No:** [030423011]
 * **Ad Soyad:** Ahmet Yasir Ertan ]- **Öğrenci No:** [030423029]
 * **Ad Soyad:** Bakhytgul Jailaubai - **Öğrenci No:** [030422053]
-* **Ad Soyad:** Rahman Mammadov - **Öğrenci No:** [030423056]
+* **Ad Soyad:** Rahman Mammadov - **Öğrenci No:** [030423056] …-
 
 ---
 ## 📖 Veri Sözlüğü (Data Dictionary)
